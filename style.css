@@ -167,9 +167,16 @@ a{
         margin-bottom:30px;
         height: auto;
     }
+    #b1 a{
+        margin-botto:20px;
+    }
+     #b3 a{
+        margin-botto:20px;
+    }
     #intro{
         width: 96%;
         margin: 2%;
+        margin-bottom:30px;
     }
     #intro2{
         width: 96%;
