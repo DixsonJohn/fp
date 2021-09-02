@@ -125,7 +125,7 @@ a{
     color: white;
     padding-top: 10px;
 }
-@media only screen and (max-width:690px)
+@media only screen and (max-width:480px)
 {
     #top{
         width: 96%;
@@ -148,6 +148,7 @@ a{
     #banner{
         width: 96%;
         margin: 2%;
+        margin-bottom: 40px;
     }
     #b1{
         width: 96%;
@@ -169,4 +170,5 @@ a{
         width: 96%;
         margin: 2%;
     }
+   
 }
