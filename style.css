@@ -154,6 +154,7 @@ a{
     #b1{
         width: 96%;
         margin: 2%;
+        height: auto;
     }
     #b2{
         width: 96%;
@@ -164,6 +165,7 @@ a{
         margin: 2%;
         height:45px;
         margin-bottom:30px;
+        height: auto;
     }
     #intro{
         width: 96%;
