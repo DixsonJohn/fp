@@ -180,11 +180,11 @@ a{
     #intro{
         width: 96%;
         margin: 2%;
+        margin-bottom:50px;
     }
     #intro2{
         width: 96%;
         margin: 2%;
-        margin-top: 60px;
         margin-bottom: 0px;
     }
     ul{
@@ -246,11 +246,11 @@ a{
     #intro{
         width: 96%;
         margin: 2%;
+        margin-bottom:50px;
     }
     #intro2{
         width: 96%;
         margin: 2%;
-        margin-top: 60px;
         margin-bottom: 0px;
     }
     ul{
