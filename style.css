@@ -151,8 +151,8 @@ a{
         margin-bottom: 60px;
     }
     li{
-    display: inline;
-    margin-right: 5px;
+    display: block;
+    
     }
     #b1{
         width: 96%;
@@ -209,9 +209,9 @@ a{
         margin: 2%;
         margin-bottom: 60px;
     }
-     li{
-    display: inline;
-    margin-right: 5px;
+    li{
+    display: block;
+    
     }
     #b1{
         width: 96%;
