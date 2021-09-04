@@ -125,103 +125,57 @@ a{
     color: white;
     padding-top: 10px;
 }
+
 @media only screen and (max-width:576px)
 {
     #top{
-        width: 96%;
-        margin: 2%;
-        height: auto;
-    }
-    .container{
-        width: 96%;
-        margin: 2%;
-        height: auto;
-    }
-    #footer{
-        width: 96%;
-        margin: 2%;
-    }
-    #header{
-        width: 96%;
-        margin: 2%;
-        align-content: center;
-    }
-    #banner{
-        width: 96%;
-        margin: 2%;
-        margin-bottom: 60px;
-    }
-    li{
-    display: inline;
-    margin-right:2px;
-    
-    }
-    #b1{
-        width: 96%;
-        margin: 2%;
+        width: 100%;
         
     }
-    #b1 a{
-        padding-bottom:250px;
-    }
-
-    #b2{
-        width: 96%;
-        margin: 2%;
-    }
-    #b3{
-        width: 96%;
-        margin: 2%;
-    }
-    #intro{
-        width: 96%;
-        margin: 2%;
-    }
-    #intro2{
-        width: 96%;
-        margin: 2%;
-    }
-    ul{
-      width: 100%;  
-    }
-   
-}
-@media only screen and (max-width:576px)
-{
-    #top{
-        width: 96%;
-        margin: 2%;
-        height: auto;
-    }
     .container{
         width: 96%;
         margin: 2%;
         height: auto;
     }
     #footer{
-        width: 96%;
-        margin: 2%;
+        width:100;
+        
     }
     #header{
         width: 96%;
         margin: 2%;
     }
+    
     #banner{
         width: 96%;
         margin: 2%;
-        margin-bottom: 60px;
+        margin-bottom: 80px;
     }
+    li{
+        display: inline-block ;
+        margin-top: -5px;
+        padding-bottom: 10px;
+        margin-right: -50px;
+        margin: 0 auto;
+    }
+    ul{
+       
+    }
+   
     #b1{
         width: 96%;
         margin: 2%;
+        height: 500px;
     }
     #b2{
         width: 96%;
         margin: 2%;
+        height: 500px;
     }
     #b3{
         width: 96%;
         margin: 2%;
+        height: 500px;
     }
     #intro{
         width: 96%;
@@ -230,6 +184,8 @@ a{
     #intro2{
         width: 96%;
         margin: 2%;
+        margin-top: 30px;
+        margin-bottom: 0px;
     }
     ul{
       width: 100%;  
@@ -239,9 +195,8 @@ a{
 @media only screen and (max-width:768px)
 {
     #top{
-        width: 96%;
-        margin: 2%;
-        height: auto;
+        width: 100%;
+        
     }
     .container{
         width: 96%;
@@ -249,29 +204,44 @@ a{
         height: auto;
     }
     #footer{
-        width: 96%;
-        margin: 2%;
+        width:100;
+        
     }
     #header{
         width: 96%;
         margin: 2%;
     }
+    
     #banner{
         width: 96%;
         margin: 2%;
-        margin-bottom: 60px;
+        margin-bottom: 80px;
     }
+    li{
+        display: inline-block ;
+        margin-top: -5px;
+        padding-bottom: 10px;
+        margin-right: -50px;
+        margin: 0 auto;
+    }
+    ul{
+       
+    }
+   
     #b1{
         width: 96%;
         margin: 2%;
+        height: 500px;
     }
     #b2{
         width: 96%;
         margin: 2%;
+        height: 500px;
     }
     #b3{
         width: 96%;
         margin: 2%;
+        height: 500px;
     }
     #intro{
         width: 96%;
@@ -280,6 +250,8 @@ a{
     #intro2{
         width: 96%;
         margin: 2%;
+        margin-top: 30px;
+        margin-bottom: 0px;
     }
     ul{
       width: 100%;  
