@@ -128,7 +128,7 @@ a{
 @media only screen and (max-width:576px)
     {
         #header img{
-            justify-content:center;
+            margin-left:50px;
         }
 }
 
