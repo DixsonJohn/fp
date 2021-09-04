@@ -144,6 +144,7 @@ a{
     #header{
         width: 96%;
         margin: 2%;
+        align-content: center;
     }
     #banner{
         width: 96%;
@@ -152,8 +153,8 @@ a{
     }
     li{
     display: inline;
-    margin:0;
-    padding:0;
+    margin-right:2px;
+    
     }
     #b1{
         width: 96%;
@@ -204,6 +205,7 @@ a{
     #header{
         width: 96%;
         margin: 2%;
+        align-content: center;
     }
     #banner{
         width: 96%;
@@ -212,8 +214,7 @@ a{
     }
     li{
     display: inline;
-    margin:0;
-    padding:0;
+    margin-right:2px;
     }
     #b1{
         width: 96%;
