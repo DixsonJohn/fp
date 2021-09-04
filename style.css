@@ -156,7 +156,7 @@ a{
         
     }
     .p{
-        padding:50px;
+        padding-bottom:80px;
     }
     #b2{
         width: 96%;
@@ -214,7 +214,7 @@ a{
     }
     #b2{
         width: 96%;
-        margin: 2%;
+        padding-bottom:80px;
     }
     #b3{
         width: 96%;
