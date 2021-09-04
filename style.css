@@ -152,7 +152,7 @@ a{
     }
     li{
     display: block;
-    margin-bottom:20px;
+    margin-bottom:50px;
     }
     #b1{
         width: 96%;
@@ -211,7 +211,7 @@ a{
     }
     li{
     display: block;
-    margin-bottom:20px;
+    margin-bottom:50px;
     }
     #b1{
         width: 96%;
@@ -243,53 +243,4 @@ a{
     }
    
 }
-@media only screen and (max-width:0px)
-{
-    #top{
-        width: 96%;
-        margin: 2%;
-        height: auto;
-    }
-    .container{
-        width: 96%;
-        margin: 2%;
-        height: auto;
-    }
-    #footer{
-        width: 96%;
-        margin: 2%;
-    }
-    #header{
-        width: 96%;
-        margin: 2%;
-    }
-    #banner{
-        width: 96%;
-        margin: 2%;
-        margin-bottom: 60px;
-    }
-    #b1{
-        width: 96%;
-        margin: 2%;
-    }
-    #b2{
-        width: 96%;
-        margin: 2%;
-    }
-    #b3{
-        width: 96%;
-        margin: 2%;
-    }
-    #intro{
-        width: 96%;
-        margin: 2%;
-    }
-    #intro2{
-        width: 96%;
-        margin: 2%;
-    }
-    ul{
-      width: 100%;  
-    }
-   
-}
+
