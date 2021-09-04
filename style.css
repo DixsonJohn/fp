@@ -125,5 +125,16 @@ a{
     color: white;
     padding-top: 10px;
 }
-
+@media only screen and (max-width: 768)
+    {
+        #top{
+            width:100%;
+        }
+        .container{
+            width:100%;
+        }
+        #footer{
+            width:100%;
+        }
+}
 
