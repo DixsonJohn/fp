@@ -150,6 +150,10 @@ a{
         margin: 2%;
         margin-bottom: 60px;
     }
+    li{
+    display: inline;
+    margin-right: 5px;
+    }
     #b1{
         width: 96%;
         margin: 2%;
@@ -204,6 +208,10 @@ a{
         width: 96%;
         margin: 2%;
         margin-bottom: 60px;
+    }
+     li{
+    display: inline;
+    margin-right: 5px;
     }
     #b1{
         width: 96%;
