@@ -126,7 +126,7 @@ a{
     padding-top: 10px;
 }
 
-@media only screen and (min-width:480px) and (max-width:600px)
+@media only screen and (min-width:420px) and (max-width:600px)
 {
     #top{
         width: 96%;
