@@ -110,7 +110,7 @@ li a{
     margin-bottom:10px;
 }
 a{
-    margin-left: 5px;
+    margin-left: 10px;
     padding:5px 10px 5px 10px;
     text-decoration: none;
     background-color: white;
@@ -133,6 +133,9 @@ a{
     }
     #header{
         width: 100%;
+    }
+    #header img{
+        margin-left: 10px;
     }
     #banner{
         width: 100%;
@@ -162,6 +165,40 @@ a{
     #intro2{
         width: 100%;
     }
+ 
+   li{
+       display: block;
+       padding: 5px;
+       border: 1px solid black;
+       margin-top: 1px;
+       
+   }
+   .nav{
+       width: 100%;
+       text-align: center;
+       
+   }
+   li:hover{
+    background-color: black;
+       
+       
+   }
+
+   ul li a{
+       background:none;
+   }
+   li:hover a{
+    color: white;
+   }
+   .headimg{
+       margin-left: 5px;
+   }
+   ul{
+       margin-left: 20px;
+       margin-bottom: 20px;
+   }
+  
+    
 }
 @media only screen and (min-width:321px) and (max-width:375px)
 {
@@ -199,6 +236,39 @@ a{
     #intro2{
         width: 100%;
     }
+    li{
+        display: block;
+        padding: 5px;
+        border: 1px solid black;
+        margin-top: 1px;
+        
+    }
+    .nav{
+        width: 100%;
+        text-align: center;
+        
+    }
+    li:hover{
+     background-color: black;
+        
+        
+    }
+ 
+    ul li a{
+        background:none;
+    }
+    li:hover a{
+     color: white;
+    }
+    .headimg{
+        margin-left: 40px;
+        
+    }
+    ul{
+        margin-left: 20px;
+        margin-bottom: 20px;
+    }
+  
 }
 @media only screen and (min-width:376px) and (max-width:425px)
 {
@@ -236,6 +306,39 @@ a{
     #intro2{
         width: 100%;
     }
+    li{
+        display: block;
+        padding: 5px;
+        border: 1px solid black;
+        margin-top: 1px;
+        
+    }
+    .nav{
+        width: 100%;
+        text-align: center;
+        
+    }
+    li:hover{
+     background-color: black;
+        
+        
+    }
+ 
+    ul li a{
+        background:none;
+    }
+    li:hover a{
+     color: white;
+    }
+    .headimg{
+        margin-left: 60px;
+        
+    }
+    ul{
+        margin-left: 20px;
+        margin-bottom: 20px;
+    }
+   
 }
 @media only screen and (min-width:426px) and (max-width:480px)
 {
@@ -273,6 +376,39 @@ a{
     #intro2{
         width: 100%;
     }
+    li{
+        display: block;
+        padding: 5px;
+        border: 1px solid black;
+        margin-top: 1px;
+        
+    }
+    .nav{
+        width: 100%;
+        text-align: center;
+        
+    }
+    li:hover{
+     background-color: black;
+        
+        
+    }
+ 
+    ul li a{
+        background:none;
+    }
+    li:hover a{
+     color: white;
+    }
+    .headimg{
+        margin-left: 80px;
+        
+    }
+    ul{
+        margin-left: 20px;
+        margin-bottom: 20px;
+    }
+    
 }
 @media only screen and (min-width:481px) and (max-width:560px)
 {
@@ -310,6 +446,39 @@ a{
     #intro2{
         width: 100%;
     }
+    li{
+        display: block;
+        padding: 5px;
+        border: 1px solid black;
+        margin-top: 1px;
+        
+    }
+    .nav{
+        width: 100%;
+        text-align: center;
+        
+    }
+    li:hover{
+     background-color: black;
+        
+        
+    }
+ 
+    ul li a{
+        background:none;
+    }
+    li:hover a{
+     color: white;
+    }
+    .headimg{
+        margin-left: 115px;
+        
+    }
+    ul{
+        margin-left: 20px;
+        margin-bottom: 20px;
+    }
+   
 }
 @media only screen and (min-width:561px) and (max-width:600px)
 {
@@ -347,6 +516,39 @@ a{
     #intro2{
         width: 100%;
     }
+    li{
+        display: block;
+        padding: 5px;
+        border: 1px solid black;
+        margin-top: 1px;
+        
+    }
+    .nav{
+        width: 100%;
+        text-align: center;
+        
+    }
+    li:hover{
+     background-color: black;
+        
+        
+    }
+ 
+    ul li a{
+        background:none;
+    }
+    li:hover a{
+     color: white;
+    }
+    .headimg{
+        margin-left: 135px;
+        
+    }
+    ul{
+        margin-left: 20px;
+        margin-bottom: 20px;
+    }
+   
 }
 @media only screen and (min-width:601px) and (max-width:768px)
 {
@@ -383,6 +585,38 @@ a{
     }
     #intro2{
         width: 100%;
+    }
+    li{
+        display: block;
+        padding: 5px;
+        border: 1px solid black;
+        margin-top: 1px;
+        
+    }
+    .nav{
+        width: 100%;
+        text-align: center;
+        
+    }
+    li:hover{
+     background-color: black;
+        
+        
+    }
+ 
+    ul li a{
+        background:none;
+    }
+    li:hover a{
+     color: white;
+    }
+    .headimg{
+        margin-left: 205px;
+        
+    }
+    ul{
+        margin-left: 20px;
+        margin-bottom: 20px;
     }
 }
 @media only screen and (min-width:769px) and (max-width:814px)
@@ -421,6 +655,9 @@ a{
     #intro2{
         width: 100%;
     }
+    li{
+        margin: 0;
+    }
 }
 @media only screen and (min-width:815px) and (max-width:932px)
 {
@@ -458,6 +695,9 @@ a{
      #intro2{
          width: 50%;
      }
+     li{
+         margin: 0;
+     }
 }
 @media only screen and (min-width:933px) and (max-width:956px)
 {
@@ -494,6 +734,9 @@ a{
      }
      #intro2{
          width: 50%;
+     }
+     li{
+         margin: 0;
      }
 }
 
@@ -536,6 +779,9 @@ a{
      #intro2{
          width: 50%;
      }
+     li{
+         margin: 0;
+     }
 }
 @media only screen and (max-width:1024px)
 {
@@ -549,4 +795,5 @@ a{
     #b3{
         height: 360px;
     }
+    
 }
